@@ -1,0 +1,10 @@
+{
+    "server": {
+        "port": 8080
+    },
+    "endpoint": "https://sandbox.boletobancario.com/api-integration/",
+    "endpoint_token": "https://sandbox.boletobancario.com/authorization-server/oauth/token",
+    "clientId": "aDs0vtk1cL7PYRLl",
+    "clientSecret": "Q6l;_2Dp_R*%OHZ;F&l_o_cJ&1=ZF05+",
+    "private_key": "70CAC5B4A28498B0CD0B6A927662BBC93E01AF6DDBAE529BBC6FB15F34C6EDB4"
+}
